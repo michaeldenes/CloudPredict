@@ -1,2 +1,6 @@
 data/processed/
 data/raw/
+data/knmi_ssi_downloads/
+
+*.png
+*.zarr
